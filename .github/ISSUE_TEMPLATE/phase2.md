@@ -3,7 +3,7 @@ name: تمپلیت فاز دو
 about: برای ساخت ایشوی فاز دو از این تمپلیت استفاده کنید
 title: Phase 2 Report
 labels: progress
-assignees: Arshia Izadyari
+assignees: Mahdi Alinejad
 
 ---
 
